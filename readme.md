@@ -3,7 +3,7 @@
 This repository contains the code, data, and resources for the master's thesis project:
 
 **"Can integrating a fact-checking knowledge base improve the performance of hate speech detection?"**  
-*Ibrahim Ahmedoglu – MSc Artificial Intelligence, Leiden University, 2025*
+*Ibrahim Ahmedoglu – MSc Artificial Intelligence, Vrije Amsterdam University, 2025*
 
 ---
 
